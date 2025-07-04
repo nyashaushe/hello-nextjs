@@ -12,7 +12,7 @@ The purpose of this software is to verify my development environment and demonst
 
 I used Visual Studio Code as my code editor and Git for version control. The project is managed and shared using GitHub.
 
-The programming language used for this project is Python.
+The programming language used for this project is Typescript.
 
 # Useful Websites
 
